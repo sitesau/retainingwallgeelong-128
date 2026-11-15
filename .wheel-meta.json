@@ -1,0 +1,22 @@
+{
+  "wheel_id": 898,
+  "structure": "umbrella",
+  "slug": "retainingwallgeelong-128",
+  "project": "retaining-wall-builders-geelong-glossary-7d9a57d437751032db322e",
+  "parent_t1_ref": "retainingwallgeelong-163",
+  "node_role": "feeder",
+  "money_target": "retainingwallgeelong.com.au",
+  "primary_kw": "retaining wall builders geelong glossary",
+  "intended_url": "https://sitesau.github.io/retainingwallgeelong-128/",
+  "tier": "T2",
+  "writeback_nonce": "5ae67422516dc6d6",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-wall-builders-geelong-local-options-compared-c1b85b15/",
+      "anchor": "more on retaining wall builders geelong local options compared",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
